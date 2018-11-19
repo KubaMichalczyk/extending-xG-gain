@@ -1,5 +1,4 @@
 library(tidyverse)
-#library(ggsoccer)
 
 data <- readRDS('D:/NYA Fellowship/raw-data/PL_2017-18.rds')
 data <- data %>% 
